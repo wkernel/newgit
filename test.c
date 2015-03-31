@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	printf("hello world! This is mt github");
+	printf("hello world! This is my github");
 	return 0;
 }
